@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Parma, Ohio. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Parma, Ohio, US",
-  "export_job_id": "3cebe1b0-44d8-4bb4-bd59-82ff33c311f0",
+  "export_job_id": "329a9f47-5e09-409c-a0a5-bc98c401c6d1",
   "github_org": "Beamstation-Datasets",
   "id_short": 999787,
   "location_name": "Parma",
@@ -18,5 +18,5 @@
   "sample_sha256": "0b7f1551b7c89362ade80e9142230fc2030f3c7e820b62f9fec99cb3a667d24c",
   "sample_size_bytes": 76366,
   "total_records": 174,
-  "updated_at": "2026-04-07T10:04:35.727347+00:00"
+  "updated_at": "2026-04-14T09:56:03.976267+00:00"
 }
