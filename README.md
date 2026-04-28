@@ -1,6 +1,6 @@
 # All Restaurants in Parma, Ohio, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `999787` |
 | Location | Parma |
 | Category | Restaurants |
-| Full dataset size | 140 records |
-| Free sample size | 14 records (10.0%) |
-| Last export | 2026-04-21T09:59:01.656551+00:00 |
+| Full dataset size | 174 records |
+| Free sample size | 17 records (9.77%) |
+| Last export | 2026-04-28T09:59:01.115235+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-parma-ohio-us-sample-999787/releases/download/sample-latest/beamstation_999787_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
