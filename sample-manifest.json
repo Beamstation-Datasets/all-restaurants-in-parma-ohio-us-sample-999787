@@ -1,12 +1,12 @@
 {
-  "export_job_id": "82efbc19-c897-405f-8dde-13f2f2bd1f4f",
+  "export_job_id": "514b2094-ca34-4c28-873a-2419f3e3288c",
   "id_short": 999787,
-  "published_at": "2026-04-28T19:37:43Z",
+  "published_at": "2026-05-05T19:10:51Z",
   "repo_name": "all-restaurants-in-parma-ohio-us-sample-999787",
   "sample_asset_name": "beamstation_999787_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/999787/beamstation_999787_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "4a5d50042e425b446c85704cec28e018b367cd07868a9152c7967bded432c2d8",
-  "sample_size_bytes": 75638,
-  "total_records": 174
+  "sample_records": 18,
+  "sample_sha256": "19cf471cdf5ec4fbf0fb77566497474b7588cc01fec7d15101667f78de1fed13",
+  "sample_size_bytes": 80595,
+  "total_records": 183
 }
